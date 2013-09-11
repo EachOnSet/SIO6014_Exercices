@@ -28,6 +28,9 @@ void main() {
 void fizzBuzz(int inMin, int inMax) {
   // Loop for MINIMUM to MAXIMUM
   for (int i = inMin; i <= inMax; i++){
-    i%3 == 0 && i%5 == 0 ? print("FizzBuzz") : (i%3 == 0 ? print("Fizz") : (i%5 == 0 ? print("Buzz") : print(i)));
+    i%3 == 0 && i%5 == 0 ? print("FizzBuzz")
+        : (i%3 == 0 ? print("Fizz")
+        : (i%5 == 0 ? print("Buzz")
+        : print(i)));
   }
 }
