@@ -1,0 +1,10 @@
+name: output
+version: 0.0.01
+author: Pierre-Olivier Nadeau
+description: "> Create a library example project where you will use your library.\
+  \ Both the library and the example should be at GitHub.\r\nThis is the output/example\
+  \ part."
+homepage: http://www.pierre-olivier.com
+dependencies:
+  output_library:
+    git: git://github.com/EachOnSet/output_library.git
