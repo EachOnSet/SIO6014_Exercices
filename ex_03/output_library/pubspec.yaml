@@ -1,0 +1,6 @@
+name: output_library
+version: 0.0.01
+author: Pierre-Olivier Nadeau
+description: "> Create a library example project where you will use your library.\
+  \ Both the library and the example should be at GitHub.\r\nThis is the library part."
+homepage: http://www.pierre-olivier.com
