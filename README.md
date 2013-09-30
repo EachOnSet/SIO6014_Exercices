@@ -10,3 +10,5 @@ Repo for Pierre-Olivier Nadeau
 	*	[Library](https://github.com/EachOnSet/output_library)
 -	Exercise #04 : [2013-09-30]
 	*	[Example](https://github.com/EachOnSet/todo_mvc)
+-	Exercise #05 : [2013-10-07]
+	*	[Example](https://github.com/EachOnSet/sierpinski_triangle)
