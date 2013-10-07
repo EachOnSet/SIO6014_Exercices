@@ -12,3 +12,5 @@ Repo for Pierre-Olivier Nadeau
 	*	[Example](https://github.com/EachOnSet/todo_mvc)
 -	Exercise #05 : [2013-10-07]
 	*	[Example](https://github.com/EachOnSet/sierpinski_triangle)
+-	Exercise #06 : [2013-10-14]
+	*	[Example](https://github.com/EachOnSet/simple_crm)
