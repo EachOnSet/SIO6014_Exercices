@@ -14,3 +14,7 @@ Repo for Pierre-Olivier Nadeau
 	*	[Example](https://github.com/EachOnSet/sierpinski_triangle)
 -	Exercise #06 - Simple CRM : [2013-10-14]
 	*	[Example](https://github.com/EachOnSet/simple_crm)
+-	Exercise #09 - Dartling CRM : [2013-11-04]
+	*	[Example](https://github.com/EachOnSet/dartling_crm)
+-	Exercise #08 - Polymer CRM : [2013-11-11]
+	*	[Example](https://github.com/EachOnSet/polymer_crm)
